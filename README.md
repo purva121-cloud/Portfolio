@@ -56,20 +56,18 @@ Welcome to my Analytics Portfolio! This repository showcases my Business Analysi
 **Data Analytics**
 * SQL
 * Power BI
-* Excel
+* Advanced Excel
 * Power Query
 * Data Cleaning
 * Dashboard Development
 * KPI Design
-
-**Currently Learning**
-* Python
-* Advanced SQL
+* Python (Pandas, NumPy, Matplotlib)
+* Basic Statistics
 
 ---
 
 ## 🎯 Career Objective
-Aspiring Business Analyst passionate about transforming business requirements into data-driven solutions through structured analysis, effective documentation and insightful dashboards.
+Aspiring Data Analyst passionate about transforming business requirements into data-driven solutions through structured analysis, effective documentation and insightful dashboards.
 
 ---
 
